@@ -1,4 +1,4 @@
-# Adsorb Side Float Ball 吸边悬浮球
+# Absorb Side Float Ball 吸边悬浮球
 参考FloatWindow https://github.com/MeteorCh/FloatWindow
  # 模仿微信浮窗的（~~可折叠~~）自动靠边，贴边变形，悬浮按钮  
  Adsorb Side Ball 模仿微信浮窗的可折叠自动靠边悬浮按钮，在[FloatMenuSample](https://github.com/crosg/FloatMenuSample)和[FloatingActionButtonSpeedDial](https://github.com/leinardi/FloatingActionButtonSpeedDial)的参考下写的模仿微信浮窗的悬浮自动贴边可展开浮动按钮。
