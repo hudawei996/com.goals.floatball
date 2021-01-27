@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="60dp"
+    android:layout_height="60dp"
+    android:elevation="15dp"
+    android:outlineAmbientShadowColor="#EB5B58"
+    android:outlineSpotShadowColor="#EB5B58"
+    android:background="@drawable/widget_float_button_logo_bg">
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:visibility="invisible"
+        android:scaleType="centerInside"
+        android:layout_centerInParent="true"
+        android:src="@drawable/widget_float_button_logo"/>
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:maxEms="2"
+        android:maxLines="2"
+        android:textColor="@color/white"
+        android:textSize="@dimen/font_14"
+        android:textStyle="bold"
+        android:text="蓝牙开门蓝牙开门"
+        />
+</RelativeLayout>
