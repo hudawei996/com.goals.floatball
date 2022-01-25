@@ -1,11 +1,11 @@
-package com.goals.floatabsorbsideball
+package com.goals.floatball
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
-import com.goals.floatabsorbsideball.floatbutton.BaseFloatDailog
-import com.goals.floatabsorbsideball.floatbutton.FloatWindow
-import com.goals.floatabsorbsideball.floatbutton.UiUtils
+import com.goals.floatball.floatbutton.BaseFloatDailog
+import com.goals.floatball.floatbutton.FloatWindow
+import com.goals.floatball.floatbutton.UiUtils
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

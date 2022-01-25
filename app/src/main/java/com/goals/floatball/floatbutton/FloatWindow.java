@@ -1,4 +1,4 @@
-package com.goals.floatabsorbsideball.floatbutton;
+package com.goals.floatball.floatbutton;
 
 import android.app.Activity;
 import android.content.Context;
@@ -11,7 +11,7 @@ import android.widget.TextView;
 
 import androidx.annotation.RequiresApi;
 
-import com.goals.floatabsorbsideball.R;
+import com.goals.floatball.R;
 
 
 /**

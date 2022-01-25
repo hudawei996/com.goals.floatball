@@ -1,4 +1,4 @@
-package com.goals.floatabsorbsideball.floatbutton;
+package com.goals.floatball.floatbutton;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -13,7 +13,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.core.content.res.ResourcesCompat;
 
-import com.goals.floatabsorbsideball.R;
+import com.goals.floatball.R;
 
 
 @SuppressWarnings({"unused", "WeakerAccess"})

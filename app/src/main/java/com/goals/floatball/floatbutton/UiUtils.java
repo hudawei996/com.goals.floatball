@@ -1,4 +1,4 @@
-package com.goals.floatabsorbsideball.floatbutton;
+package com.goals.floatball.floatbutton;
 
 import android.content.Context;
 import android.content.res.Resources;

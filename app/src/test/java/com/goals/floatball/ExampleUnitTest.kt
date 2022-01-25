@@ -1,4 +1,4 @@
-package com.goals.floatabsorbsideball
+package com.goals.floatball
 
 import org.junit.Test
 
